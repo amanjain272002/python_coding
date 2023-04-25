@@ -1,13 +1,14 @@
 # ===>  que 1
 
 # x = 27
-# if (x>20):
-#     print("greater than 20")
+
 # if (x>25):
 #     if (x>25 and x<30):
 #         print("greater than 25 and less than 30")
 #     else:
 #         print("greater than 25")
+# else if (x>20):
+#     print("greater than 20")
 # else:
 #     print("less than 20")
 
